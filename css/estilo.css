@@ -1,0 +1,28 @@
+main {
+	background-image: url(../assets/img/fondotrebol.jpg);
+	border-radius: 20px;
+}
+body {
+	overflow-x: hidden;
+}
+
+.bg-lime {
+	background-color: limegreen;
+	border-radius: 20px;
+}
+.h1 {
+	display: flex;
+	justify-content: center;
+}
+.border {
+	border-top: solid blue 30px;
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.img img {
+	display: flex;
+	justify-content: center;
+	border-radius: 20px;
+}
