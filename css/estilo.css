@@ -20,7 +20,7 @@ a:hover {
 	margin-bottom: 20px;
 }
 .border {
-	border-top: solid blue 30px;
+	border-top: 20px double black;
 	margin-top: 20px;
 	display: flex;
 	justify-content: center;
@@ -48,4 +48,8 @@ a:hover {
 }
 .margin_con {
 	margin-top: 10px;
+}
+.gradi {
+	background-image: linear-gradient(to right, darkgreen, limegreen, darkcyan);
+    border-top: 20px double black;
 }
