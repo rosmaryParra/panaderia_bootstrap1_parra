@@ -16,6 +16,9 @@ a:hover {
 	display: flex;
 	justify-content: center;
 }
+.h2 {
+	margin-bottom: 20px;
+}
 .border {
 	border-top: solid blue 30px;
 	margin-top: 20px;
@@ -39,4 +42,7 @@ a:hover {
 
 .margin_more {
 	margin-top: 25px;
+}
+.margin_blog p {
+	margin-bottom: 40px;
 }
