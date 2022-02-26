@@ -5,7 +5,9 @@ main {
 body {
 	overflow-x: hidden;
 }
-
+a:hover {
+	color: darkgoldenrod;
+}
 .bg-lime {
 	background-color: limegreen;
 	border-radius: 20px;
@@ -18,7 +20,8 @@ body {
 	border-top: solid blue 30px;
 	margin-top: 20px;
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
+
 
 }
 .img img {
@@ -29,4 +32,11 @@ body {
 .logo img {
 	display: flex;
 	justify-content: center;
+}
+.margin {
+	margin-top: 10px;
+}
+
+.margin_more {
+	margin-top: 25px;
 }
